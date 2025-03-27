@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @p-prime1
-- 👀 I’m interested in ...Web Dev and Cyber Security
+- 👋 Hi, I’m Nwaka Nduka Precious
+- 👀 I’m interested in ...Web Dev and Web 3 Technologies
 - 🌱 I’m currently learning ...Javascript,Python,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You can reach me on Twitter @PreciousNwaka5
