@@ -78,7 +78,7 @@ Looking for:
 “Technology, when thoughtfully applied, becomes a tool to make life simpler, smarter, and more inclusive.”
 
 📩 Reach me at: preciousnwaka95@gmail.com
-🌐 Visit my site: nwaka-nduka
+🌐 Visit my site: [nwaka-nduka](https://sites.google.com/view/nwaka-nduka/home)
 🐦 Let’s chat on Twitter: @FObaede96682
 
-<p align="center"> 🚀 Let’s build something impactful together. </p> ```
+<p align="center"> 🚀 Let’s build something impactful together. </p> 
