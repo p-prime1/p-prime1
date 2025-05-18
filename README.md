@@ -62,7 +62,7 @@ Databases: PostgreSQL, MySQL, MongoDB
 Frontend: HTML, CSS  
 Tools: Git, Docker, Redis  
 Interests: Embedded Systems, IoT, Systems Programming
-
+```
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=p-prime1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-prime1&theme=tokyonight" alt="GitHub streak" /> </p>
