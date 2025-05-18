@@ -64,18 +64,21 @@ Tools: Git, Docker, Redis
 Interests: Embedded Systems, IoT, Systems Programming
 
 
-### 📊 GitHub Stats
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=p-prime1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=p-prime1&theme=tokyonight" alt="GitHub streak" /> </p>
+🤝 Let’s Connect
+Looking for:
 
-![p-prime1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p-prime1&show_icons=true&theme=radical)
+💼 Internships or entry-level backend roles
 
----
+🤝 Meaningful collaborations
 
-### 📫 Let’s Connect!
+🧠 Smart projects at the intersection of software and hardware
 
-I'm always open to collaborating on projects that use tech to solve real problems.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-link-here) or connect here on GitHub!
+“Technology, when thoughtfully applied, becomes a tool to make life simpler, smarter, and more inclusive.”
 
----
+📩 Reach me at: preciousnwaka95@gmail.com
+🌐 Visit my site: nwaka-nduka
+🐦 Let’s chat on Twitter: @FObaede96682
 
-> “Technology, when thoughtfully applied, becomes a tool to make life simpler, smarter, and more inclusive.”
-
+<p align="center"> 🚀 Let’s build something impactful together. </p> ```
